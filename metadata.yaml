@@ -1,5 +1,8 @@
 _repo: Travels-in-Western-Africa-vol-II-of-2_69179
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69179-h/images/cover.jpg
 creator:
   author:
     agent_name: Duncan, John
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50363
     wikipedia: https://en.wikipedia.org/wiki/John_Duncan_(painter)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69179#Travels-in-Western-Africa-vol-II-of-2
 gutenberg_issued: '2022-10-19'
 identifiers:
   gutenberg: '69179'
